@@ -1,5 +1,5 @@
 class Main {
-  // Find the element in first occurence
+  // Find the element in first occurrence
   public static void main(String[] args) {
     int[] arr = { 2, 4, 6, 10, 10, 10, 10, 10, 18, 20 };
     int target = 18;
