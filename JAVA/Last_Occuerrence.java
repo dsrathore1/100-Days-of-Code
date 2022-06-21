@@ -27,7 +27,6 @@ class Main {
         start = res + 1;
       }
     }
-
     return res;
   }
 }
