@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss -i ./input.css -o ./css/style.css",
-    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch"
+    "start": "vite",
+    "build": "npx tailwindcss -i ./main.css -o ./css/style.css",
+    "test" : "npx tailwindcss -i ./main.css -o ./css/style.css --watch "
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "vite": "^2.9.12"
+  },
   "devDependencies": {
     "tailwindcss": "^3.1.3"
   }
