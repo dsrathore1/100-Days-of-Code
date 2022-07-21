@@ -1,10 +1,7 @@
 # 100-Days-of-Code 👨🏻‍💻
 Here I will share my 100 days of code in which I will solve Data Structure and Algorithms questions each day 2 although I will learning new things on daily basis, which I'll upload here on this repository.
 
-`#100-days-of-code
-`#DSA`
-`#MAANG`
-`#LeetCode`
+`#100-days-of-code` `#DSA` `#MAANG` `#LeetCode`
 
 ***
 
@@ -84,4 +81,11 @@ It is very easy to learn but there is one **Pre-requisite** is CSS which I know 
 
 There are several steps to install tailwind css
 
+## Day 4️⃣ :-
+
+### Theme Changer App
+
+I created one small project, this application does whenever I click on color buttons that color button changes whole theme of the web page. Although it have light and dark theme.
+
+App Link 👉 https://theme-changer01.herokuapp.com/
 
